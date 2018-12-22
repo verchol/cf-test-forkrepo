@@ -1,3 +1,3 @@
 # cf-test-forkrepo
 testfrokrepo
-commit1
+commit2
